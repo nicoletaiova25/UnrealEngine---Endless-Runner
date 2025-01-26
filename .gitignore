@@ -1,0 +1,12 @@
+# Fisiere generate automat de Unreal Engine
+*.sln
+*.opensdf
+*.sdf
+*.suo
+*.tmp
+*.log
+Saved/
+Intermediate/
+DerivedDataCache/
+Build/
+Binaries/
