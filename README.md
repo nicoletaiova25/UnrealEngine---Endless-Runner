@@ -9,6 +9,10 @@
       </p>
    </section>
 
+   <div align="center">  
+    <img width="500" alt="image" src="https://github.com/user-attachments/assets/369d33f4-6eeb-4767-9f2c-7cd78b9064d3">
+</div>
+
    <section>
        <h2>Caracteristici</h2>
        <ul>
@@ -86,6 +90,10 @@
  - Materiale animate 
  - Normal mapping 
 
+ <div align="center">  
+    <img width="500" alt="image" src="https://github.com/user-attachments/assets/c1a78ae3-7665-46c0-bab1-2a2ea5ec4ed0">
+</div>
+
 <h3>Etapa 2: Caracter și Control</h3>
 - Character class extins 
 - Action & Axis Mappings complete 
@@ -101,6 +109,16 @@
 - Generare actori programatic 
 - Sistem de iluminare 
 
+ <div align="center">  
+    <img width="500" alt="image" src="https://github.com/user-attachments/assets/a0f25a92-73e8-4972-8fc4-8b5e0d56c56f">
+</div>
+ <div align="center">  
+    <img width="500" alt="image" src="https://github.com/user-attachments/assets/cdad0ea6-66b2-4eb4-99ba-2b4315c60ce3">
+</div>
+<div align="center">  
+    <img width="500" alt="image" src="https://github.com/user-attachments/assets/64768fbe-40b8-40e2-b30f-06b19df74a8b">
+</div>
+
 <h3>Etapa 5: Evenimente</h3>
 - Evenimente mouse și tastatură 
 - Sistem de coliziuni complex 
@@ -114,4 +132,6 @@
 
 </details>
 
-
+<div align="center">  
+    <img width="500" alt="image" src="https://github.com/user-attachments/assets/615f6856-06c4-4f62-be3a-979ea2974a5d">
+</div>
